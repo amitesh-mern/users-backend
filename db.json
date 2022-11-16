@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "Antonietta Lynch",
+      "dob": "1961-11-13",
+      "email": "Antonietta.Lynch56@yahoo.com",
+      "username": "Antonietta.Lynch38",
+      "password": "9qQj5kNnKvfkCyN",
+      "phone": "279.413.9690 x436",
+      "streetaddress": "1309 Malcolm Pines",
+      "citystatezip": "West Karianne, NE 50626",
+      "latitude": "51.5240",
+      "longitude": "-44.2169",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/384.jpg"
+    },
+    {
+      "name": "Eveline Davis V",
+      "dob": "1943-12-19",
+      "email": "Eveline53@gmail.com",
+      "username": "Eveline15",
+      "password": "VLtSDHBB2Fjvqjr",
+      "phone": "(445) 477-1711 x12987",
+      "streetaddress": "2998 Lexus Lakes",
+      "citystatezip": "Carterstad, ND 38902",
+      "latitude": "3.5400",
+      "longitude": "-12.9874",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/598.jpg"
+    },
+    {
+      "name": "Concepcion Mosciski II",
+      "dob": "1960-9-9",
+      "email": "Concepcion_Mosciski39@gmail.com",
+      "username": "Concepcion_Mosciski",
+      "password": "3Xlm2dczIwSJx7E",
+      "phone": "294-705-0249",
+      "streetaddress": "531 Asha Skyway",
+      "citystatezip": "South Eunice, IN 28060-3486",
+      "latitude": "-45.8840",
+      "longitude": "80.2102",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/198.jpg"
+    },
+    {
+      "name": "Kristina Hessel",
+      "dob": "1984-5-2",
+      "email": "Kristina.Hessel@hotmail.com",
+      "username": "Kristina.Hessel",
+      "password": "FqrADEukPc5q3VH",
+      "phone": "608-698-1608 x181",
+      "streetaddress": "97755 Wade Park",
+      "citystatezip": "Lake Aleenborough, WA 21112",
+      "latitude": "-66.9370",
+      "longitude": "34.4377",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/756.jpg"
+    },
+    {
+      "name": "Laurie Welch",
+      "dob": "1970-4-26",
+      "email": "Laurie.Welch@gmail.com",
+      "username": "Laurie72",
+      "password": "7uqdmMt5R7sRxdQ",
+      "phone": "376-962-0348 x35692",
+      "streetaddress": "89161 Faye Forges",
+      "citystatezip": "Millsberg, IA 24113",
+      "latitude": "15.2900",
+      "longitude": "0.3650",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1125.jpg"
+    },
+    {
+      "name": "Miss Garnet Gerhold",
+      "dob": "1967-2-21",
+      "email": "Garnet65@yahoo.com",
+      "username": "Garnet11",
+      "password": "Pxm3r9_hpIguwNL",
+      "phone": "226-569-7600",
+      "streetaddress": "90860 Danika Springs",
+      "citystatezip": "Lake Breanna, IA 48953",
+      "latitude": "1.1210",
+      "longitude": "-76.3345",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/7.jpg"
+    }
+  ]
+}
